@@ -1,0 +1,9 @@
+body {
+  background-color: #EAF6F6;
+}
+hr {
+  width:10%;
+  /* border-style: none; */
+  border-color: green;
+
+}
